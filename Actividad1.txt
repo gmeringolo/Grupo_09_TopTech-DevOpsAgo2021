@@ -1,4 +1,4 @@
 Integrantes:
-	Johana Rios
+	Johana Ríos
 	Federico Montañez
 	Gianella Meringolo (referente de GIT)
