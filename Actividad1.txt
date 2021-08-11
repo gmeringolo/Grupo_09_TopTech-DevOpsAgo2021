@@ -2,3 +2,5 @@
 	Johana Ríos
 	Federico Montañez //Comentario nuevo
 	Gianella Meringolo (referente de GIT)
+	
+	//Prueba de uso de Git Desktop
